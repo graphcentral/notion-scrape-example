@@ -10,7 +10,7 @@ import fs from "fs"
     verbose: true,
   })
   const graph = await notionGraph.buildGraphFromRootNode(
-    // notion help page
+    // Some random Japanese blog
     `95fcfe03257541c5aaa21dd43bdbc381`
   )
   console.log(graph.nodes.length)
