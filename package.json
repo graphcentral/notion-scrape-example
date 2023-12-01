@@ -1,0 +1,16 @@
+{
+  "name": "notiontest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "9oelM",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@graphcentral/notion-graph-scraper": "^0.1.0-rc.6"
+  }
+}
